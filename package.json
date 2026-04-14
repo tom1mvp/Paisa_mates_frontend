@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@icons-pack/react-simple-icons": "^13.13.0",
+    "@tailwindcss/vite": "^4.2.1",
+    "lucide-react": "^0.577.0",
+    "tailwindcss": "^4.2.1"
+  }
+}
