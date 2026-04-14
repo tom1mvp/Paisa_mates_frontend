@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Card from "../components/cards";
+import Card from "../components/Cards";
 
 const Home = () => {
     return (
